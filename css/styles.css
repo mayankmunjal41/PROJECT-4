@@ -1,0 +1,46 @@
+#search {
+  width: 75%;
+  text-align: left;
+  padding: 10px;
+  margin: 20x auto;
+  border-radius: 5px;
+}
+
+body {
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.search-box {
+  text-align: center;
+  margin: 30px 0;
+}
+
+img {
+  margin: 0 0 20px 0;
+}
+
+.container {
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+@media screen and (min-width:1128px) {
+
+.col {
+  float: left;
+  width: 25%;
+  text-align: center;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+}
