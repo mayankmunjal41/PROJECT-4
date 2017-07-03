@@ -2,7 +2,7 @@
   width: 75%;
   text-align: left;
   padding: 10px;
-  margin: 20x auto;
+  margin: 20px auto;
   border-radius: 5px;
 }
 
@@ -30,7 +30,7 @@ li {
 
 @media screen and (min-width:1128px) {
 
-.col {
+li {
   float: left;
   width: 25%;
   text-align: center;
